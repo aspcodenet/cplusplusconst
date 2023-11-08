@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\stefa\\source\\cplusplusconst",
+            "binaryPath": "c:\\Users\\stefa\\source\\cplusplusconst\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
